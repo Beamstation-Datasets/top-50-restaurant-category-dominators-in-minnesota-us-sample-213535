@@ -1,0 +1,22 @@
+{
+  "base_price": 1295,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--Defensible Leaders-- \nTop 50 ranked high-volume restaurants. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
+  "config_name": "Top 50 Restaurant Category Dominators in Minnesota, US",
+  "export_job_id": "b04b6847-b0c7-4bc1-b50a-c4bed963e24a",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 213535,
+  "location_name": "Minnesota",
+  "location_type": "state",
+  "repo_name": "top-50-restaurant-category-dominators-in-minnesota-us-sample-213535",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/213535/beamstation_213535_restaurants-us-mn_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 5,
+  "sample_sha256": "d49143e487bf05dcd3726c4d5e4baba52b7ef91c2f6f2d12fc20b3c09a6f103d",
+  "sample_size_bytes": 37876,
+  "total_records": 50,
+  "updated_at": "2026-04-08T01:16:33.224363+00:00"
+}
