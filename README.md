@@ -9,9 +9,9 @@
 | Dataset ID | `213535` |
 | Location | Minnesota |
 | Category | Restaurants |
-| Full dataset size | 50 records |
-| Free sample size | 5 records (10.0%) |
-| Last export | 2026-04-08T01:16:33.224363+00:00 |
+| Full dataset size | 52 records |
+| Free sample size | 5 records (9.62%) |
+| Last export | 2026-04-15T06:50:47.148788+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-minnesota-us-sample-213535/releases/download/sample-latest/beamstation_213535_restaurants-us-mn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
