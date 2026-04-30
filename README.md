@@ -1,6 +1,6 @@
 # Top 50 Restaurant Category Dominators in Minnesota, US
 
-> Free BeamStation sample export with 8 rows and masked direct-contact fields.
+> Free BeamStation sample export with 6 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `213535` |
 | Location | Minnesota |
 | Category | Restaurants |
-| Full dataset size | 80 records |
-| Free sample size | 8 records (10.0%) |
-| Last export | 2026-04-22T13:03:46.510631+00:00 |
+| Full dataset size | 60 records |
+| Free sample size | 6 records (10.0%) |
+| Last export | 2026-04-29T13:52:38.916267+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-minnesota-us-sample-213535/releases/download/sample-latest/beamstation_213535_restaurants-us-mn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
