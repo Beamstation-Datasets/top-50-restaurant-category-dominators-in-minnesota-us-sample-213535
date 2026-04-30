@@ -1,12 +1,12 @@
 {
-  "export_job_id": "fd49a2eb-3788-4704-80be-66baaee97550",
+  "export_job_id": "ccb0fe06-7038-4862-9c30-2e491b5d1f97",
   "id_short": 213535,
-  "published_at": "2026-04-22T19:23:07Z",
+  "published_at": "2026-04-30T07:08:01Z",
   "repo_name": "top-50-restaurant-category-dominators-in-minnesota-us-sample-213535",
   "sample_asset_name": "beamstation_213535_restaurants-us-mn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/213535/beamstation_213535_restaurants-us-mn_SAMPLE_DIST.csv",
-  "sample_records": 8,
-  "sample_sha256": "f2e1f5713646c621956204277d544e999200c428bd13f609de054740f3c50121",
-  "sample_size_bytes": 50347,
-  "total_records": 80
+  "sample_records": 6,
+  "sample_sha256": "811f11c264f9e1baf4d24bb5f19b071fd368b35bf55717c2a74ec434a5528e11",
+  "sample_size_bytes": 40273,
+  "total_records": 60
 }
